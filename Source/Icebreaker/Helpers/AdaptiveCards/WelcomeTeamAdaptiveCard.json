@@ -19,8 +19,8 @@
           "type": "Image",
           "horizontalAlignment": "Center",
           "url": "%welcomeCardImageUrl%",
-          "width": "424px",
-          "height": "248px"
+          "width": "310px",
+          "height": "274px"
         },
         {
           "type": "TextBlock",
